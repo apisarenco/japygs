@@ -1,2 +1,2 @@
 # japygs
-Just another Google Drive sync
+Just another Python Google Drive sync
